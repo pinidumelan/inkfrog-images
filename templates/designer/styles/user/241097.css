@@ -1,0 +1,19 @@
+
+#inkfrog_credit a {
+    font-family: Arial;
+    font-weight:normal;
+    font-size:14px;
+    color:#000;
+    text-decoration:none;
+}
+#inkfrog_credit a:hover,
+#inkfrog_credit a:active {
+ color:#000;
+ text-decoration:underline;
+}
+.inkfrog_promo img {
+    max-width:100%;
+}
+img { max-width:100% } 
+
+.editable > img { width: 100% !important}
